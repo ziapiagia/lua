@@ -1,3 +1,4 @@
-for a=1,100 do
-	print(a)
+for i=1,100
+do
+    print(i)
 end
